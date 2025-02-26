@@ -38,7 +38,7 @@ Distributed under the Apache License 2.0. See the [LICENSE](LICENSE) file for mo
 If you have any questions or suggestions, feel free to reach out:
 
 - GitHub: [@JozsefIvanGafo](https://github.com/JozsefIvanGafo)
-- Email: your-email@example.com
+- Email: jozivga23@gmail.com
 
 Project Link: [https://github.com/JozsefIvanGafo/Discord-Bot-Template](https://github.com/JozsefIvanGafo/Discord-Bot-Template)
 
